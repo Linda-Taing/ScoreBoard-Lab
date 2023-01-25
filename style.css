@@ -1,0 +1,47 @@
+.lg-bg{
+    background-image: url(lg-bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 54em;
+    width:auto
+}
+
+.title{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50pt;
+    text-align: center;
+    color:rgb(13, 9, 4)
+
+}
+.button{
+    height: 5em;
+    width:5em;
+    font-family:'Courier New', Courier, monospace;
+    border: 2px;
+    border-radius: 5%;
+
+}
+.scoreboard-card{
+    border:2px white;
+    background-color: rgba(211, 225, 220, 0.531);
+    height:30em;
+
+}
+.pt-card{
+    height:3em;
+    border-style: double;
+    border-color: black;
+    font-size: 60pt;
+    /* transform: scale(2); */
+    margin-top:1em;
+
+    
+
+
+}
+.label{
+    font-weight:900;
+    font-size: 50pt;
+}
